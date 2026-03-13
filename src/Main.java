@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("""
                 -------------------------
-                     JOGO DO MARIO
+                       SUPER MARIO
                 -------------------------
                 Condições de Vitória: Chegar a 500 pontos.
                 Condições de Derrota: Perder todas as vidas.""");
